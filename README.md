@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Banerjee</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://www.google.com/search?q=coding+gif+&tbm=isch&ved=2ahUKEwjEyqPRqu3_AhWtm2MGHQLFCKQQ2-cCegQIABAA&oq=coding+gif+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEBgQgARQ7AtY7Atgmg5oAHAAeACAAYsBiAGIApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=VQSgZITMO623juMPgoqjoAo&bih=789&biw=1440#imgrc=QuqbC-xCVJtgOM”>
+<img align="right" alt="Coding" width="400" src=“https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media”>
 
 - 🌱 I’m currently learning **Data Science**
 
