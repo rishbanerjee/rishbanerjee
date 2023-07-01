@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Banerjee</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src=“https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media”>
+<img align="right" alt="Coding" width="400" src=“https://www.google.com/search?q=coding+gif+&tbm=isch&ved=2ahUKEwjEyqPRqu3_AhWtm2MGHQLFCKQQ2-cCegQIABAA&oq=coding+gif+&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAEBgQgARQ7AtY7Atgmg5oAHAAeACAAYsBiAGIApIBAzAuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=VQSgZITMO623juMPgoqjoAo&bih=789&biw=1440#imgrc=QuqbC-xCVJtgOM”>
 
 - 🌱 I’m currently learning **Data Science**
 
